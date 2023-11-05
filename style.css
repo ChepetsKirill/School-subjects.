@@ -1,0 +1,38 @@
+body {
+    background-color: #DF4E0B;
+     font-family: cursive;
+      color: white;
+}
+
+a {
+    color: lightblue;
+}
+
+p {
+    font-size: 21px;
+}
+
+footer {
+    background-color: grey;
+    opacity: 0.7;
+}
+
+h3 {
+    color: white;
+}
+
+h2 {
+    border: 3px solid white;
+}
+
+tr {
+    border: 3px solid #5CE688;
+}
+
+table {
+    text-align:center;
+    color:white; 
+    font-size:20px;
+    border:3px solid #5CE688;
+    border-collapse: collapse;
+}
